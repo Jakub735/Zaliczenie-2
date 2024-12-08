@@ -3,3 +3,4 @@ public class Plik2 {
         System.out.println("Hello from Plik2!");
     }
 }
+
